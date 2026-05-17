@@ -1,1 +1,1 @@
-{"Yam": {"quantity": 5, "min": 10}, "Rice": {"quantity": 70, "min": 5}, "Beans": {"quantity": 44, "min": 2}}
+{"MILO": {"quantity": 10000, "min": 2}, "Rice": {"quantity": 5, "min": 2}, "Wake": {"quantity": 7000, "min": 2}, "Soya Beans": {"quantity": 20000, "min": 2}, "Paper": {"quantity": 1, "min": 2}}
